@@ -1,0 +1,4 @@
+data/*.csv text eol=lf
+data/*.json text eol=lf
+data/*.zip -text
+figures/*.png -text
